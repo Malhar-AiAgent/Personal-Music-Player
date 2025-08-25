@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "My-Heart-Will-Go-On",
+    "artist": "Celine Dion",
+    "filePath": "assests\\music\\My-Heart-Will-Go-On.mp3",
+    "imagePath": "assests\\images\\Titanic.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Blue",
+    "artist": "Yung Kai",
+    "filePath": "assests\\music\\Blue-Yung-Kai.mp3",
+    "imagePath": "assests\\images\\Blue.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Despacito",
+    "artist": "Luis Fonsi",
+    "filePath": "assests\\music\\Despacito.mp3",
+    "imagePath": "assests\\images\\Despacito.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Shaky",
+    "artist": "Sanju Rathod",
+    "filePath": "assests\\music\\Ek-Number-Tuzi-Kambar.mp3",
+    "imagePath": "assests\\images\\Shaky.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Phoolon ke Rang Se",
+    "artist": "Kishor Kumar",
+    "filePath": "assests\\music\\Phoolon Ke Rang Se - Prem Pujari 128 Kbps.mp3",
+    "imagePath": "assests\\images\\Phoolon ke rang se.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Seniorita",
+    "artist": "María del Mar Fernández, Farhan Akhtar, Hrithik Roshan, Abhay Deol",
+    "filePath": "assests\\music\\Senorita Zindagi Na Milegi Dobara 128 Kbps.mp3",
+    "imagePath": "assests\\images\\Seniorita.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "Line Without A Hook",
+    "artist": "Ricky Montgomery",
+    "filePath": "assets/music/Line Without a Hook.mp3",
+    "imagePath": "assests\\images\\Line Without a Hook.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "filePath": "assets/music/Shape of You.mp3",
+    "imagePath": "assests\\images\\Shape of You.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "Summer",
+    "artist": "Bensound",
+    "filePath": "assests\\music\\summer.mp3",
+    "imagePath": "assests\\images\\summer.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "Tenderness",
+    "artist": "Bensound",
+    "filePath": "assests\\music\\tenderness.mp3",
+    "imagePath": "assests\\images\\tenderness.jpeg"
+  }
+]
