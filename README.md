@@ -4,9 +4,6 @@ A sleek, modern, and fully functional music player built with vanilla HTML, CSS,
 MyPersonal Music Player
 A sleek, modern, and fully functional music player built with vanilla HTML, CSS, and JavaScript. This project is a hands-on implementation of front-end web development concepts, creating an interactive and visually appealing application for playing your favorite songs.
 
-# ✨ Live Demo Link
-(Replace the link above with your actual GitHub Pages link after deployment.)
-
 🚀 Features
 This music player comes packed with all the essential features for an immersive listening experience:
 
