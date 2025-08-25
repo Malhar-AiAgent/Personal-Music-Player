@@ -71,10 +71,6 @@ my-music-player/
 # ⚙️ Setup and Installation
 To get this project up and running on your local machine, follow these simple steps:
 
-Clone the repository:
-
-git clone https://github.com/your-github-username/your-repo-name.git
-
 Navigate to the project directory:
 
 cd your-repo-name
